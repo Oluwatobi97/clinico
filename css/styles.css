@@ -6350,6 +6350,11 @@ i.appointment{
 .last-news li:first-child:after {
   display: none;
 }
+.datetime {
+  font-size: 30px;
+  font-weight: bold;
+  
+}
 
 
 /**/
